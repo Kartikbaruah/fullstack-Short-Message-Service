@@ -19,7 +19,7 @@ const Navbar = () => {
                 <MessageSquare className='w-5 h-5 text/primary'/>
               </div>
               <div className='flex items-center space-x-2'>
-                <img src={Logo} className='h-10 w-15' />
+                <img src={Logo} className='h-12 w-15 rounded-2xl' />
               </div>
             </Link>
           </div>
